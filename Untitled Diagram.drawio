@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-05T01:13:32.711Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="UKbLl1zmoaGdSxu5x5N8" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T02:34:29.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="pcEvq-XppP2qOBriSH4w" version="14.6.10" type="github">
   <diagram id="0CfNGkcYSqPvImddvc7B" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,7 +16,7 @@
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-3" value="核心系統接收檔案&lt;br&gt;使用ActiveX辨識內容" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="329.5" y="170" width="169" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-4" target="ZjrX0Bt_PGqUC7RXJvhE-14">
+        <mxCell id="tR7kKfcisioBhaIiMimh-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-4" target="ZjrX0Bt_PGqUC7RXJvhE-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-4" value="是否辨識完全正確" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -28,13 +28,12 @@
             <mxPoint x="409.5" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="tR7kKfcisioBhaIiMimh-3">
+        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-6" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="tR7kKfcisioBhaIiMimh-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="474" y="310" as="sourcePoint" />
             <mxPoint x="440" y="660" as="targetPoint" />
             <Array as="points">
               <mxPoint x="560" y="310" />
-              <mxPoint x="560" y="585" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -47,40 +46,37 @@
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-14" target="ZjrX0Bt_PGqUC7RXJvhE-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-14" target="ZjrX0Bt_PGqUC7RXJvhE-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-14" value="擷取未配對的資料(tif)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="127" y="360" width="126" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-14" value="找出未配對的資料備份" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="203" y="360" width="126" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-15" target="tR7kKfcisioBhaIiMimh-7">
+        <mxCell id="tR7kKfcisioBhaIiMimh-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-15" target="tR7kKfcisioBhaIiMimh-7" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="560" as="targetPoint" />
+            <mxPoint x="190" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-15" value="未配對的資料回傳notify，通知三商美邦" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="50" y="480" width="120" height="60" as="geometry" />
+          <mxGeometry x="130" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-17" target="tR7kKfcisioBhaIiMimh-3">
+        <mxCell id="QGigBX6qsUDGa3Nz9L7T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-17" target="ZjrX0Bt_PGqUC7RXJvhE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-17" value="備份後，RPA刪除&lt;br&gt;未配對的資料" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="202" y="480" width="128" height="60" as="geometry" />
+        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-17" value="RPA重新辨識資料，&lt;br&gt;並將未配對的資料修改收件編號" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="345" y="480" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-27" value="程式結束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="349" y="690" width="120" height="60" as="geometry" />
+          <mxGeometry x="550" y="620" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tR7kKfcisioBhaIiMimh-3" target="ZjrX0Bt_PGqUC7RXJvhE-27">
+        <mxCell id="tR7kKfcisioBhaIiMimh-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tR7kKfcisioBhaIiMimh-3" target="ZjrX0Bt_PGqUC7RXJvhE-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-3" value="&lt;span&gt;將資料&lt;br&gt;存入DB&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="379" y="555" width="60" height="60" as="geometry" />
+        <mxCell id="tR7kKfcisioBhaIiMimh-3" value="&lt;span&gt;將資料&lt;br&gt;存入DB&lt;/span&gt;" style="shape=datastore;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="580" y="280" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tR7kKfcisioBhaIiMimh-7" target="ZjrX0Bt_PGqUC7RXJvhE-27">
+        <mxCell id="tR7kKfcisioBhaIiMimh-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="tR7kKfcisioBhaIiMimh-7" target="ZjrX0Bt_PGqUC7RXJvhE-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tR7kKfcisioBhaIiMimh-7" value="三商美邦user&lt;br&gt;進補件系統補資料" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="615" width="120" height="60" as="geometry" />
+        <mxCell id="tR7kKfcisioBhaIiMimh-7" value="三商美邦user&lt;br&gt;進系統人工辨識未配對資料" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="600" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
