@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T03:01:42.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="bfJvHxZ5ICXmilmZmy4N" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T03:02:59.340Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="i7MPVSXb9DRnd3JU0XjL" version="14.6.10" type="github">
   <diagram id="0CfNGkcYSqPvImddvc7B" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -60,7 +60,7 @@
         <mxCell id="QGigBX6qsUDGa3Nz9L7T-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ZjrX0Bt_PGqUC7RXJvhE-17" target="ZjrX0Bt_PGqUC7RXJvhE-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-17" value="RPA重新辨識資料，&lt;br&gt;並將未配對的資料修改收件編號" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" parent="1" vertex="1">
+        <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-17" value="RPA將未配對的資料修改收件編號" style="whiteSpace=wrap;html=1;rounded=0;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="480" width="128" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZjrX0Bt_PGqUC7RXJvhE-27" value="程式結束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" parent="1" vertex="1">
