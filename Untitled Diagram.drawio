@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-06-18T02:37:21.780Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="SZqJsbMJ4VfCVNGWTCYP" version="14.6.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-18T03:01:42.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.106 Safari/537.36" etag="bfJvHxZ5ICXmilmZmy4N" version="14.6.10" type="github">
   <diagram id="0CfNGkcYSqPvImddvc7B" name="Page-1">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -77,6 +77,9 @@
         </mxCell>
         <mxCell id="tR7kKfcisioBhaIiMimh-7" value="三商美邦user&lt;br&gt;進系統人工辨識未配對資料" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="110" y="600" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QGigBX6qsUDGa3Nz9L7T-3" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;註:&lt;span style=&quot;font-size: 14px&quot;&gt;以流程上來說，未完全辨識案件pending，直到三商美邦補上人工辨識的號碼之後，RPA幫他把未配號的補起來，直到辨識完全正確&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="220" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
